@@ -12,5 +12,11 @@ This project is constructed with:
 3.OSEPP Ultra Sonic Range Finder x2
 4.OSEPP PIR Detector
 5.Servo Motor
+6.Photosensor
+
+Photosensor goes on top of Wifly shield's built-in LED GPIO4 with any kind of tapes which can shuts out any lights.
+
+Wifly Shield should be set up as AP mode, and set wifly "GPIO Alternative Function", which allows wifly to have function turning on the LED when its connected.
+
 
 
